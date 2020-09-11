@@ -1,0 +1,80 @@
+{
+  "best_head" : [
+    {
+      "voca": "pro",
+      "mean": "앞에"
+    },
+    {
+      "voca": "pre",
+      "mean": "미리, 전에"
+    },
+    {
+      "voca": "re",
+      "mean": "뒤로, 다시"
+    },
+    {
+      "voca": "pro",
+      "mean": "앞에"
+    },
+    {
+      "voca": "in, im",
+      "mean": "안에"
+    },
+    {
+      "voca": "ex, es, e",
+      "mean": "밖으로"
+    },
+    {
+      "voca": "out",
+      "mean": "밖으로, 뛰어난"
+    },
+    {
+      "voca": "over",
+      "mean": "넘어, 위에, 과도하게"
+    },
+    {
+      "voca": "com, con, co",
+      "mean": "함께"
+    },
+    {
+      "voca": "inter",
+      "mean": "사이에, 서로"
+    },
+    {
+      "voca": "trans",
+      "mean": "가로질러"
+    },
+    {
+      "voca": "a, ab, ac, ad",
+      "mean": "~에, ~으로, ~을 향하여"
+    },
+    {
+      "voca": "ag, ap, ar, at",
+      "mean": "~에, ~으로, ~을 향하여"
+    },
+    {
+      "voca": "sub, sug",
+      "mean": "아래에, 부차적인, 가까운"
+    },
+    {
+      "voca": "de",
+      "mean": "아래로, 떨어져, 아닌"
+    },
+    {
+      "voca": "dis",
+      "mean": "아닌, 떨어져"
+    },
+    {
+      "voca": "pro",
+      "mean": "앞에"
+    },
+    {
+      "voca": "un",
+      "mean": "아닌, 반대"
+    },
+    {
+      "voca": "in, im, il, ir",
+      "mean": "아닌"
+    }
+  ]
+}

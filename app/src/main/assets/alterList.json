@@ -1,0 +1,17 @@
+{
+  "alter": [
+    {
+      "voca": "alter",
+      "pronounce": "[ QltPr ]",
+      "mean": "바꾸다"
+    },{
+      "voca": "alternative",
+      "pronounce": "[ W:ltQ:rnPtiv ]",
+      "mean": "대안, 대체 가능한"
+    },{
+      "voca": "otherwise",
+      "pronounce": "[ EKPrw%iz ]",
+      "mean": "그렇지 않으면, 다른 방법으로"
+    }
+  ]
+}

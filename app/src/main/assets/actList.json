@@ -1,0 +1,25 @@
+{"cap2" : [
+{
+"voca": "react",
+"pronounce" : "[ ri\"kt ]",
+"mean": "반응하다"
+},
+  {
+    "voca": "transact",
+    "pronounce" : "[ tr!nz\"kt ]",
+    "mean": "거래하다, 처리하다"
+  },{
+    "voca": "exact",
+    "pronounce" : "[ igz\"kt ]",
+    "mean": "정확한, 엄밀한, 강요하다"
+  },{
+    "voca": "actual",
+    "pronounce" : "[ \"ktHuPl ]",
+    "mean": "실제의, 진짜의"
+  },{
+    "voca": "active",
+    "pronounce" : "[ \"ktiv ]",
+    "mean": "활동적인, 적극적인"
+  }
+]
+}

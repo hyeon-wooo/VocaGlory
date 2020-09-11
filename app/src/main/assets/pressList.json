@@ -1,0 +1,26 @@
+{
+  "press" : [
+    {
+      "voca" : "press","pronounce": "[ pres ]",
+      "mean" : "압력, 인쇄, 언론, 압력을 가하다"
+    },{
+      "voca" : "compress","pronounce": "[ kPmpr&s ]",
+      "mean" : "압축하다, 압박 붕대"
+    },{
+      "voca" : "depress","pronounce": "[ dipr&s ]",
+      "mean" : "우울하게 만들다, 침체시키다"
+    },{
+      "voca" : "express","pronounce": "[ ikspr&s ]",
+      "mean" : "표현하다, 신속한"
+    },{
+      "voca" : "impress","pronounce": "[ impr&s ]",
+      "mean" : "감명을 주다"
+    },{
+      "voca" : "oppress","pronounce": "[ Ppr&s ]",
+      "mean" : "억압하다"
+    },{
+      "voca" : "suppress","pronounce": "[ sPpr&s ]",
+      "mean" : "진압하다, 억누르다, 숨기다"
+    }
+  ]
+}

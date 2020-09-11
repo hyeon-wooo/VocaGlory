@@ -1,0 +1,65 @@
+{
+  "cap1": [
+
+    {
+      "voca": "capable",
+      "pronounce": "[ k&ipPbl ]",
+      "mean": "유능한, -도 서슴지 않을(~of)"
+    },
+    {
+      "voca": "capture",
+      "pronounce": "[ k\"ptHPr ]",
+      "mean": "포획, 쟁탈하다"
+    },
+    {
+      "voca": "anticipate",
+      "pronounce": "[ !ntIsPp'it ]",
+      "mean": "예상하다, 예측하다"
+    },
+    {
+      "voca": "participate",
+      "pronounce": "[ pa:rtIsPp'it ]",
+      "mean": "참여하다"
+    },
+    {
+      "voca": "conceive",
+      "pronounce": "[ kPnsI:v ]",
+      "mean": "생각을 품다, 임신하다"
+    },
+    {
+      "voca": "deceive",
+      "pronounce": "[ disI:v ]",
+      "mean": "속이다, 기만하다"
+    },
+    {
+      "voca": "perceive",
+      "pronounce": "[ pPrsI:v ]",
+      "mean": "인식하다, 감지하다"
+    },
+    {
+      "voca": "receive",
+      "pronounce": "[ risI:v ]",
+      "mean": "받다"
+    },
+    {
+      "voca": "accept","pronounce": "[ Pks&pt ]",
+      "mean": "수락하다, 받아들이다"
+    },
+    {
+      "voca": "contraception","pronounce": "[ k8ntrPs&pHPn ]",
+      "mean": "피임"
+    },
+    {
+      "voca": "except","pronounce": "[ iks&pt ]",
+      "mean": "~을 제외하고"
+    },
+    {
+      "voca": "intercept","pronounce": "[ JntPrs&pt ]",
+      "mean": "가로채다, 가로막다"
+    },
+    {
+      "voca": "susceptible","pronounce": "[ sPs&ptPbl ]",
+      "mean": "영향을 받기 쉬운, 민감한"
+    }
+  ]
+}

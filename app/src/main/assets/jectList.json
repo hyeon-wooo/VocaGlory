@@ -1,0 +1,26 @@
+{
+  "ject" : [
+    {
+      "voca" : "project","pronounce": "[ pr7:dSekt ]",
+      "mean" : "과제, 연구, 투사하다"
+    },{
+      "voca" : "reject","pronounce": "[ ridS&kt ]",
+      "mean" : "거절하다, 거부하다"
+    },{
+      "voca" : "inject","pronounce": "[ indS&kt ]",
+      "mean" : "주입하다, 주사하다"
+    },{
+      "voca" : "subject","pronounce": "[ sEbdSikt ]",
+      "mean" : "주제, 과목, 국민, ~에 종속된, 지배하다"
+    },{
+      "voca" : "object","pronounce": "[ 7:bdSikt ]",
+      "mean" : "물체, 대상, 반대하다"
+    },{
+      "voca" : "adjective","pronounce": "[ \"dSiktiv ]",
+      "mean" : "형용사"
+    },{
+      "voca" : "jet","pronounce": "dSet",
+      "mean" : "제트기, 분출"
+    }
+  ]
+}

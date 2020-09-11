@@ -1,0 +1,137 @@
+{
+  "sta": [
+    {
+      "voca" : "withstand","pronounce": "[ wiKst\"nd ]",
+      "mean" : "저항하다, 견디다"
+    },{
+      "voca" : "standard","pronounce": "[ st\"ndPrd ]",
+      "mean" : "기준, 일반적인"
+    },{
+      "voca" : "standpoint","pronounce": "[ st\"ndpWint ]",
+      "mean" : "관점"
+    },{
+      "voca" : "standstill","pronounce": "[ st\"ndstil ]",
+      "mean" : "멈춤, 정지한"
+    },{
+      "voca" : "stance","pronounce": "[ st!ns ]",
+      "mean" : "입장, 태도"
+    },{
+      "voca" : "substance","pronounce": "[ sEbstPns ]",
+      "mean" : "물질, 실체"
+    },{
+      "voca" : "stable","pronounce": "[ st&ibl ]",
+      "mean" : "안정적인, 마구긴"
+    },{
+      "voca" : "establish","pronounce": "[ ist\"bliH ]",
+      "mean" : "설립하다, 확립하다"
+    },{
+      "voca" : "stage","pronounce": "[ steidS ]",
+      "mean" : "무대, 개최하다"
+    },{
+      "voca" : "stagnant","pronounce": "[ st\"gnPnt ]",
+      "mean" : "고여있는, 침체된"
+    },{
+      "voca" : "stall","pronounce": "[ stE:l ]",
+      "mean" : "가판대, 지연시키다"
+    },{
+      "voca" : "install","pronounce": "[ inst':l ]",
+      "mean" : "설치하다"
+    },{
+      "voca" : "state","pronounce": "[ steit ]",
+      "mean" : "상태, 국가, 진술하다"
+    },{
+      "voca" : "statistics","pronounce": "[ stPtIstiks ]",
+      "mean" : "통계 자료, 통계학"
+    },{
+      "voca" : "estate","pronounce": "[ ist&it ]",
+      "mean" : "사유지, 재산"
+    },{
+      "voca" : "instate","pronounce": "[ inst&it ]",
+      "mean" : "확립하다, 임명하다"
+    },{
+      "voca" : "static","pronounce": "[ st\"tik ]",
+      "mean" : "고정된, 정지상태의"
+    },{
+      "voca" : "station","pronounce": "[ st&iHPn ]",
+      "mean" : "정류장, 주둔시키다"
+    },{
+      "voca" : "stationery","pronounce": "[ st&iHPn'ri ]",
+      "mean" : "문구류"
+    },{
+      "voca" : "statue","pronounce": "[ st&tHu: ]",
+      "mean" : "조각상"
+    },{
+      "voca" : "stature","pronounce": "[ st&tHPr ]",
+      "mean" : "위상"
+    },{
+      "voca" : "status","pronounce": "[ st&itPs ]",
+      "mean" : "신분, 지위, 상황"
+    },{
+      "voca" : "stay","pronounce": "[ stei ]",
+      "mean" : "머무르다"
+    },{
+      "voca" : "constant","pronounce": "[ k7:nstPnt ]",
+      "mean" : "끊임없는, 변함없는"
+    },{
+      "voca" : "distant","pronounce": "[ dIstPnt ]",
+      "mean" : "먼, 떨어져 있는"
+    },{
+      "voca" : "instant","pronounce": "[ InstPnt ]",
+      "mean" : "즉각적인, 순간"
+    },{
+      "voca" : "obstacle","pronounce": "[ 7:bstPkl ]",
+      "mean" : "장애, 장애물"
+    },{
+      "voca" : "ecstasy","pronounce": "[ &kstPsi ]",
+      "mean" : "황홀"
+    },{
+      "voca" : "steady","pronounce": "[ st&di  ]",
+      "mean" : "꾸준한, 흔들림 없이"
+    },{
+      "voca" : "rest","pronounce": "[ rest ]",
+      "mean" : "나머지, 휴식, 쉬다"
+    },{
+      "voca" : "arrest","pronounce": "[ ar&st ]",
+      "mean" : "저지하다, 체포"
+    },{
+      "voca" : "contrast","pronounce": "[ kPntr\"st ]",
+      "mean" : "대조하다, 차이"
+    },{
+      "voca" : "cost","pronounce": "[ kW:st ]",
+      "mean" : "비용, (값이) 들다"
+    },{
+      "voca" : "system","pronounce": "[ sIstPm ]",
+      "mean" : "제도, 체계"
+    },{
+      "voca" : "assist","pronounce": "[ PsIst ]",
+      "mean" : "돕다"
+    },{
+      "voca" : "exist","pronounce": "[ igzIst ]",
+      "mean" : "존재하다"
+    },{
+      "voca" : "insist","pronounce": "[ insIst ]",
+      "mean" : "고집하다"
+    },{
+      "voca" : "persist","pronounce": "[ pPrsIst ]",
+      "mean" : "집요하게 계속하다"
+    },{
+      "voca" : "resist","pronounce": "[ rizIst ]",
+      "mean" : "저항하다, 반대하다"
+    },{
+      "voca" : "subsist","pronounce": "[ sPbsIst ]",
+      "mean" : "살아가다, 유효하다"
+    },{
+      "voca" : "constitute","pronounce": "[ k7:nstPt4:t ]",
+      "mean" : "구성하다"
+    },{
+      "voca" : "institute","pronounce": "[ InstPt4:t ]",
+      "mean" : "기관, 도입하다"
+    },{
+      "voca" : "substitute","pronounce": "[ sEbstPt4:t ]",
+      "mean" : "대신하다, 대체품"
+    },{
+      "voca" : "superstition","pronounce": "[ s4:pPrstIHPn ]",
+      "mean" : "미신"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "log" : [
+    {
+      "voca" : "prologue","pronounce": "[ prBulW:g ]",
+      "mean" : "서두, 프롤로그"
+    },{
+      "voca" : "dialogue","pronounce": "[ d7iPlR:g ]",
+      "mean" : "대화"
+    },{
+      "voca" : "monologue","pronounce": "[ m7:nPlR:g ]",
+      "mean" : "독백, 긴 이야기"
+    },{
+      "voca" : "apology","pronounce": "[ Pp7:lPdSi ]",
+      "mean" : "사죄"
+    },{
+      "voca" : "logic","pronounce": "[ l7:dSik ]",
+      "mean" : "논리, 생각"
+    },{
+      "voca" : "geology","pronounce": "[ dSiB:lPdSi ]",
+      "mean" : "지질학"
+    },{
+      "voca" : "physiology","pronounce": "[ fizi7:lPdSi ]",
+      "mean" : "생리학, 생리기능"
+    },{
+      "voca" : "theology","pronounce": "[ Gi7:lPdSi ]",
+      "mean" : "신학, 종교 심리학"
+    }
+  ]
+}

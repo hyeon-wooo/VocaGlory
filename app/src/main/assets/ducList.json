@@ -1,0 +1,49 @@
+{
+  "duc" : [
+    {
+      "voca": "educate",
+      "pronounce": "[ &dSuk'it ]",
+      "mean": "교육하다"
+    },
+    {
+      "voca": "introduce","pronounce": "[ JintrPd3:s ]",
+      "mean": "소개하다 ,도입하다"
+    },
+    {
+      "voca": "reduce","pronounce": "[ rid3:s ]",
+      "mean": "줄이다, 감소시키다"
+    },
+    {
+      "voca": "produce","pronounce": "[ prPd3:s ]",
+      "mean": "생산하다, 제작하다"
+    },
+    {
+      "voca": "seduce","pronounce": "[ sid3:s ]",
+      "mean": "유혹하다, 꾀다"
+    },
+    {
+      "voca": "induce","pronounce": "[ ind3:s ]",
+      "mean": "유도하다, 유인하다"
+    },
+    {
+      "voca": "deduce","pronounce": "[ did3:s ]",
+      "mean": "추론하다, 밝히다"
+    },
+    {
+      "voca": "duct","pronounce": "[ dDkt ]",
+      "mean": "통풍구, 배관으로 내보내다"
+    },
+    {
+      "voca": "abduct","pronounce": "[ !bdEkt ]",
+      "mean": "납치하다"
+    },
+    {
+      "voca": "conduct","pronounce": "[ kPndEkt ]",
+      "mean": "지휘하다, 수행하다, 안내하다, 수행"
+    },
+    {
+      "voca": "deduct","pronounce": "[ didEkt ]",
+      "mean": "빼다, 차감"
+    }
+  ]
+}

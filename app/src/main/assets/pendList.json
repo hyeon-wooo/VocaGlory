@@ -1,0 +1,23 @@
+{
+  "pend": [
+    {
+      "voca" : "depend","pronounce": "[ dip&nd ]",
+      "mean" : "의존하다, ~에 달려있다(on)"
+    },{
+      "voca" : "expend","pronounce": "[ iksp&nd ]",
+      "mean" : "들이다, 소비하다"
+    },{
+      "voca" : "suspend","pronounce": "[ sPsp&nd ]",
+      "mean" : "중단하다, 연기하다, 매달다"
+    },{
+      "voca" : "ponder","pronounce": "[ p7:ndPr ]",
+      "mean" : "생각하다, 숙고하다"
+    },{
+      "voca" : "compensate","pronounce": "[ k7:mpPns&it ]",
+      "mean" : "보상하다, 보완하다"
+    },{
+      "voca" : "pension","pronounce": "[ p&nHPn ]",
+      "mean" : "연금, 퇴직금"
+    }
+  ]
+}

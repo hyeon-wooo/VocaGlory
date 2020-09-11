@@ -1,0 +1,78 @@
+{
+  "fac": [
+
+    {
+      "voca": "facility",
+      "pronounce": "[ fPsIlPti ]",
+      "mean": "편의시설, 기능, 쉬움"
+    },
+    {
+      "voca": "facsimile","pronounce": "[ f!ksImPli ]",
+      "mean": "복제, 복사하다"
+    },
+    {
+      "voca": "fact","pronounce": "[ f!kt ]",
+      "mean": "사실"
+    },
+    {
+      "voca": "factor","pronounce": "[ f\"ktPr ]",
+      "mean": "요소, 요인"
+    },
+    {
+      "voca": "manufacture","pronounce": "[ m#njuf\"ktHPr ]",
+      "mean": "제조하다, 생산하다"
+    },
+    {
+      "voca": "faculty","pronounce": "[ f\"kPlti ]",
+      "mean": "능력, 학부, 교수진"
+    },
+    {
+      "voca": "affect","pronounce": "[ Pf&kt ]",
+      "mean": "영향을 미치다, 꾸미다"
+    },
+    {
+      "voca": "effect","pronounce": "[ if&kt ]",
+      "mean": "영향, 결과"
+    },
+    {
+      "voca": "defect","pronounce": "[ dI:fekt ]",
+      "mean": "결함, 버리고 떠나다"
+    },
+    {
+      "voca": "infect","pronounce": "[ inf&kt ]",
+      "mean": "감염시키다"
+    },
+    {
+      "voca": "artificial","pronounce": "[ 7:rtPfIHPl ]",
+      "mean": "인공의, 인조의"
+    },
+    {
+      "voca": "deficient","pronounce": "[ difIHPnt ]",
+      "mean": "부족한, 결함이 있는"
+    },
+    {
+      "voca": "sufficient","pronounce": "[ sPfIHPnt ]",
+      "mean": "충분한"
+    },
+    {
+      "voca": "magnificent","pronounce": "[ m!gnIfisPnt ]",
+      "mean": "웅장한, 위대한, 훌륭한"
+    },
+    {
+      "voca": "proficient","pronounce": "[ prPfIHPnt ]",
+      "mean": "능숙한"
+    },
+    {
+      "voca": "profit","pronounce": "[ pr7:fit ]",
+      "mean": "수익, 이익을 내다"
+    },
+    {
+      "voca": "feat","pronounce": "[ fi:t ]",
+      "mean": "솜씨, 재주"
+    },
+    {
+      "voca": "defeat","pronounce": "[ difI:t ]",
+      "mean": "패배, 굴복시키다"
+    }
+  ]
+}

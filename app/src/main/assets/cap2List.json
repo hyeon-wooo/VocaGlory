@@ -1,0 +1,33 @@
+{
+  "cap2" : [
+    {
+      "voca": "capital",
+      "pronounce" : "[ k\"pPtl ]",
+      "mean": "수도, 대문자, 자본, 가장 중요한"
+    },
+    {
+      "voca": "cap","pronounce" : "[ k!p ]",
+      "mean": "모자, 뚜껑, 막다"
+    },
+    {
+      "voca": "cape","pronounce" : "[ keip ]",
+      "mean": "망토, 곶"
+    },
+    {
+      "voca": "cabage","pronounce" : "[ k\"bidS ]",
+      "mean": "양배추"
+    },
+    {
+      "voca": "chief","pronounce" : "[ tHi:f ]",
+      "mean": "주된, 최고위원"
+    },
+    {
+      "voca": "achieve","pronounce" : "[ PtHI:v ]",
+      "mean": "달성하다, 이루다"
+    },
+    {
+      "voca": "chef","pronounce" : "[ Hef ]",
+      "mean": "요리사, 주방장"
+    }
+  ]
+}

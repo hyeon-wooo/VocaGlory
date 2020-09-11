@@ -1,0 +1,38 @@
+{
+  "vis": [
+    {
+      "voca" : "vision","pronounce": "[ vISPn ]",
+      "mean" : "시력, 시야, 미래상"
+    },{
+      "voca" : "visit","pronounce": "[ vIzit ]",
+      "mean" : "방문하다, 방문"
+    },{
+      "voca" : "advise","pronounce": "[ !dv$iz ]",
+      "mean" : "조언하다"
+    },{
+      "voca" : "revise","pronounce": "[ riv$iz ]",
+      "mean" : "수정하다"
+    },{
+      "voca" : "supervise","pronounce": "[ s#:pPrv%iz ]",
+      "mean" : "감독하다, 관리하다"
+    },{
+      "voca" : "evident","pronounce": "[ &vPdPnt ]",
+      "mean" : "명백한, 분명한"
+    },{
+      "voca" : "provide","pronounce": "[ prPv$id ]",
+      "mean" : "제공하다, 준비하다"
+    },{
+      "voca" : "interview","pronounce": "[ IntPrvj4: ]",
+      "mean" : "면접, 인터뷰"
+    },{
+      "voca" : "preview","pronounce": "[ prI:vj4: ]",
+      "mean" : "시사회, 예고편, 시연하다"
+    },{
+      "voca" : "review","pronounce": "[ rivj3: ]",
+      "mean" : "검토, 복습하다"
+    },{
+      "voca" : "witness","pronounce": "[ wItnis ]",
+      "mean" : "증인, 목격하다"
+    }
+  ]
+}

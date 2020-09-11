@@ -1,0 +1,26 @@
+{
+  "spir": [
+    {
+      "voca" : "aspire","pronounce": "[ Psp$iPr ]",
+      "mean" : "열망하다"
+    },{
+      "voca" : "aspirin","pronounce": "[ \"spPrin ]",
+      "mean" : "아스피린(해열, 진동제)"
+    },{
+      "voca" : "conspire","pronounce": "[ kPnsp$iPr ]",
+      "mean" : "음모를 꾸미다, 공모하다"
+    },{
+      "voca" : "expire","pronounce": "[ iksp$iPr ]",
+      "mean" : "만료되다"
+    },{
+      "voca" : "inspire","pronounce": "[ insp$iPr ]",
+      "mean" : "영감을 주다"
+    },{
+      "voca" : "perspire","pronounce": "[ pPrsp$iPr ]",
+      "mean" : "땀흘리다"
+    },{
+      "voca" : "respire","pronounce": "[ risp$iPr ]",
+      "mean" : "호흡하다"
+    }
+  ]
+}

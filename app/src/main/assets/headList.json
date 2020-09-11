@@ -1,0 +1,112 @@
+{
+  "head": [
+    {
+      "voca": "fore",
+      "mean": "미리, 앞에"
+    },{
+      "voca": "ante, ant, anc",
+      "mean": "앞에, 전에"
+    },{
+      "voca": "post",
+      "mean": "뒤에, 후에"
+    },{
+      "voca": "up",
+      "mean": "위로"
+    },{
+      "voca": "under",
+      "mean": "아래에"
+    },{
+      "voca": "by",
+      "mean": "부차적인, 옆에"
+    },{
+      "voca": "extra",
+      "mean": "밖에"
+    },{
+      "voca": "non",
+      "mean": "없는"
+    },{
+      "voca": "anti, ant",
+      "mean": "대항하여, 반대의"
+    },{
+      "voca": "counter, contra",
+      "mean": "대항하여, 반대의"
+    },{
+      "voca": "with",
+      "mean": "떨어져"
+    },{
+      "voca": "mal",
+      "mean": "나쁜"
+    },{
+      "voca": "mis",
+      "mean": "잘못된"
+    },{
+      "voca": "bio",
+      "mean": "생명"
+    },{
+      "voca": "dia",
+      "mean": "가로질러"
+    },{
+      "voca": "geo",
+      "mean": "지구, 땅"
+    },{
+      "voca": "micro",
+      "mean": "작은"
+    },{
+      "voca": "tele",
+      "mean": "멀리 있는"
+    },{
+      "voca": "auto",
+      "mean": "스스로"
+    },{
+      "voca": "ob, oc, op",
+      "mean": "~에 맞서, ~을 향하여"
+    },{
+      "voca": "ab, adv",
+      "mean": "떨어져, ~에서"
+    },{
+      "voca": "se",
+      "mean": "떨어져"
+    },
+    {
+      "voca": "syn, sym",
+      "mean": "함께, 같은"
+    },{
+      "voca": "bene",
+      "mean": "좋은"
+    },{
+      "voca": "super, sur",
+      "mean": "위에, 넘어서"
+    },{
+      "voca": "per",
+      "mean": "완전히"
+    },{
+      "voca": "en, em",
+      "mean": "하게 만들다"
+    },{
+      "voca": "a",
+      "mean": "아주, 아닌"
+    },{
+      "voca": "mono",
+      "mean": "하나, 혼자"
+    },{
+      "voca": "uni, un",
+      "mean": "하나"
+    },{
+      "voca": "bi, bin",
+      "mean": "둘"
+    },{
+      "voca": "du, dou",
+      "mean": "둘"
+    },
+    {
+      "voca": "twi",
+      "mean": "둘"
+    },{
+      "voca": "tri",
+      "mean": "셋"
+    },{
+      "voca": "multi",
+      "mean": "다수의"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "cede" : [
+    {
+      "voca": "precede",
+      "pronounce": "[ prisI:d ]",
+      "mean": "선행하다, ~에 앞서다"
+    },
+    {
+      "voca": "recede","pronounce": "[sI:d]",
+      "mean": "물러나다, 약해지다"
+    },
+    {
+      "voca": "proceed","pronounce": "[ prousI:d ]",
+      "mean": "진행하다, 계속하다"
+    },
+    {
+      "voca": "exceed","pronounce": "[ iksI:d ]",
+      "mean": "초과하다"
+    },
+    {
+      "voca": "succeed","pronounce": "[ sPksI:d ]",
+      "mean": "성공하다, 출세하다, 계승하다"
+    },
+    {
+      "voca": "access","pronounce": "[ \"kses ]",
+      "mean": "입장, 접근하다"
+    },
+    {
+      "voca": "predecessor","pronounce": "[ pr&dPs'sPr ]",
+      "mean": "전임자, 이전 모델"
+    },
+    {
+      "voca": "incessant","pronounce": "[ ins&snt ]",
+      "mean": "끊임없는"
+    }
+
+
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "fer" : [
+    {
+      "voca": "offer",
+      "pronounce": "[ Q:fPr ]",
+      "mean": "제공하다, 제안하다"
+    },{
+      "voca": "transfer","pronounce": "[ tr!nsfQ:r ]",
+      "mean": "옮기다, 이동하다, 환승"
+    },{
+      "voca": "refer","pronounce": "[ rifQ:r ]",
+      "mean": "인용하다 ,참조하다, ~에 대해 언급하다"
+    },{
+      "voca": "prefer","pronounce": "[ prifQ:r ]",
+      "mean": "선호하다, ~을 더 좋아하다"
+    },{
+      "voca": "confer","pronounce": "[ kPnfQ:r ]",
+      "mean": "상의하다"
+    },{
+      "voca": "defer","pronounce": "[ difQ:r ]",
+      "mean": "미루다, 연기하다, 의견을 따르다"
+    },{
+      "voca": "differ","pronounce": "[ dIfPr ]",
+      "mean": "다르다"
+    },{
+      "voca": "suffer","pronounce": "[ sEfPr ]",
+      "mean": "고통받다, 시달리다"
+    },{
+      "voca": "infer","pronounce": "[ infQ:r ]",
+      "mean": "추측하다"
+    },{
+      "voca": "fertile","pronounce": "[ fQ:rtl ]",
+      "mean": "비옥한, 기름진"
+    }
+  ]
+}

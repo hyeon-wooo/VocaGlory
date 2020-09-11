@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E8BDECB6"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textTitle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:fontFamily="@font/godo_r"
+        android:gravity="center"
+        android:text="Voca Glory"
+        android:textColor="#6A8DC0"
+        android:textSize="80sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:id="@+id/empty_layout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:visibility="visible">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/wdpron"
+            android:textColor="#E91E63"
+            android:textSize="36sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_menu_study"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:onClick="goNext"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+        <View
+            android:id="@+id/empty_view1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <ImageView
+            android:id="@+id/imageStudy"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2.5"
+            app:srcCompat="@drawable/icon_alphabet" />
+
+        <TextView
+            android:id="@+id/textStudy"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="6.5"
+            android:fontFamily="@font/nanum_square_round_r"
+            android:gravity="center"
+            android:text="단어 공부"
+            android:textColor="#000000"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_menu_myvoca"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:orientation="horizontal"
+        android:weightSum="10"
+        android:onClick="goNext">
+
+        <View
+            android:id="@+id/empty_view2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <ImageView
+            android:id="@+id/imageMyVoca"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2.5"
+            app:srcCompat="@drawable/img_book" />
+
+        <TextView
+            android:id="@+id/textMyVoca"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="6.5"
+            android:fontFamily="@font/nanum_square_round_r"
+            android:gravity="center"
+            android:text="나의 단어장"
+            android:textColor="#000000"
+            android:textSize="47sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_menu_settings"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:orientation="horizontal"
+        android:weightSum="10"
+        android:onClick="goNext">
+
+        <View
+            android:id="@+id/empty_view3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <ImageView
+            android:id="@+id/imageSetting"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2.5"
+            app:srcCompat="@drawable/ic_icon_settings" />
+
+        <TextView
+            android:id="@+id/textSetting"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="6.5"
+            android:fontFamily="@font/nanum_square_round_r"
+            android:gravity="center"
+            android:text="설정"
+            android:textColor="#000000"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

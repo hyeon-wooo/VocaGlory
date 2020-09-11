@@ -1,0 +1,44 @@
+{
+  "tain": [
+    {
+      "voca" : "contain","pronounce": "[ kPnt&in ]",
+      "mean" : "포함하다, 억누르다"
+    },{
+      "voca" : "entertain","pronounce": "[ 'ntPrt&in ]",
+      "mean" : "즐겁게 하다, 접대하다"
+    },{
+      "voca" : "maintain","pronounce": "[ meint&in ]",
+      "mean" : "유지하다"
+    },{
+      "voca" : "obtain","pronounce": "[ Pbt&in ]",
+      "mean" : "얻다, 획득하다"
+    },{
+      "voca" : "retain","pronounce": "[ rit&in ]",
+      "mean" : "유지하다, 보유하다"
+    },{
+      "voca" : "sustain","pronounce": "[ sPst&in ]",
+      "mean" : "지속하다, 지탱하다"
+    },{
+      "voca" : "abstain","pronounce": "[ !bst&in ]",
+      "mean" : "삼가다"
+    },{
+      "voca" : "pertain","pronounce": "[ pPrt&in ]",
+      "mean" : "속하다, 알맞다"
+    },{
+      "voca" : "detain","pronounce": "[ dit&in ]",
+      "mean" : "구금하다, 붙들다"
+    },{
+      "voca" : "tenant","pronounce": "[ t&nPnt ]",
+      "mean" : "세입자"
+    },{
+      "voca" : "content","pronounce": "[ k7:ntent ]",
+      "mean" : "내용물, 만족하는"
+    },{
+      "voca" : "continue","pronounce": "[ kPntInju: ]",
+      "mean" : "계속하다"
+    },{
+      "voca" : "continent","pronounce": "[ k7:ntPnPnt ]",
+      "mean" : "대륙"
+    }
+  ]
+}

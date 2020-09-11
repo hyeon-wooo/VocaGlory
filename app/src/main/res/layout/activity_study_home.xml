@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:background="#E8BDECB6"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context=".StudyHomeActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="10dp"
+        android:layout_weight="2"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+        <View
+            android:id="@+id/btnHome"
+            style="null"
+            android:layout_width="0dp"
+            android:layout_height="90dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_weight="2"
+            android:background="@drawable/icon_home"
+            android:onClick="goMain" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="8"
+            android:fontFamily="@font/godo_r"
+            android:gravity="center"
+            android:text="S T U D Y"
+            android:textColor="#6A8DC0"
+            android:textSize="60sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:weightSum="10">
+
+        <ScrollView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="8">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/layout_best_head"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#E8F86D9C"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="best_head">
+
+                    <TextView
+                        android:id="@+id/textHead_best_head"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="중요 접두사"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_head"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#E8F86D9C"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="head">
+
+                    <TextView
+                        android:id="@+id/textHead_head"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="접두사"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_cap"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#F5FF98"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="cap1">
+
+                    <TextView
+                        android:id="@+id/textHead_cap"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="CAP (1)"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_cap"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="cip, ceive, cept"
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_cap"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="잡다, 취하다"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_cap2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#F5FF98"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="cap2">
+
+                    <TextView
+                        android:id="@+id/textHead_cap2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="CAP (2)"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_cap2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="cab, chief"
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_cap2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="머리"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_cede"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#F5FF98"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="cede">
+
+                    <TextView
+                        android:id="@+id/textHead_cede"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="CEDE"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_cede"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="ceed, cess"
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_cede"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="가다"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_duc"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#F5FF98"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="duc">
+
+                    <TextView
+                        android:id="@+id/textHead_duc"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="DUC"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_duc"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text=""
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_duc"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="이끌다"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_fac"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#F5FF98"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="fer">
+
+                    <TextView
+                        android:id="@+id/textHead_fac"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="FAC"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_fac"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="fec, fic, fit"
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_fac"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="만들다, 행하다"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_fer"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#CDDC39"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="fer">
+
+                    <TextView
+                        android:id="@+id/textHead_fer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="FER"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_fer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text=""
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_fer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="운반하다, 짐을 지다"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_graph"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#CDDC39"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="graph">
+
+                    <TextView
+                        android:id="@+id/textHead_graph"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="GRAPH"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_graph"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="gram"
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_graph"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="그리다, 쓰다"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_ject"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#CDDC39"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="ject">
+
+                    <TextView
+                        android:id="@+id/textHead_ject"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="JECT"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_ject"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="jet"
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_ject"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="던지다"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_log"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#CDDC39"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="log">
+
+                    <TextView
+                        android:id="@+id/textHead_log"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="LOG"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_log"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text=""
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_log"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="말, 생각"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_mit"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#CDDC39"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="mit">
+
+                    <TextView
+                        android:id="@+id/textHead_mit"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="MIT"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_mit"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="miss, mess"
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_mit"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="보내다"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:id="@+id/layout_pend"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#D5F8AB37"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="pend">
+
+                    <TextView
+                        android:id="@+id/textHead_pend"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="PEND"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_pend"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="pond, pens"
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_pend"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="매달다"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_plic"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#D5F8AB37"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="plic">
+
+                    <TextView
+                        android:id="@+id/textHead_plic"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="PLIC"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_plic"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="ply, ploy, plex"
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_plic"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="접다, 꼬다"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_pos"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#D5F8AB37"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="pos">
+
+                    <TextView
+                        android:id="@+id/textHead_pos"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="POS"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_pos"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="pon, pound"
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_pos"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="놓다"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_press"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#D5F8AB37"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="press">
+
+                    <TextView
+                        android:id="@+id/textHead_press"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="PRESS"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_press"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text=""
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_press"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="누르다"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_scrib"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#D5F8AB37"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="scrib">
+
+                    <TextView
+                        android:id="@+id/textHead_scrib"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="SCRIB"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_scrib"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="script"
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_scrib"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="적다, 쓰다"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_spec"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#C1DA8EE7"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="spec">
+
+                    <TextView
+                        android:id="@+id/textHead_spec"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="SPEC"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_spec"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="spic, spect"
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_spec"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="보다"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_spir"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#C1DA8EE7"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="spir">
+
+                    <TextView
+                        android:id="@+id/textHead_spir"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="SPIR"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_spir"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text=""
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_spir"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="숨 쉬다"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:id="@+id/layout_sta"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#C1DA8EE7"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="sta">
+
+                    <TextView
+                        android:id="@+id/textHead_sta"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="STA"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_sta"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="st, sist, stit"
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_sta"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="서다"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_tain"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#C1DA8EE7"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="tain">
+
+                    <TextView
+                        android:id="@+id/textHead_tain"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="TAIN"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_tain"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="ten, tin"
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_tain"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="잡다"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_tract"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#C1DA8EE7"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="tract">
+
+                    <TextView
+                        android:id="@+id/textHead_tract"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="TRACT"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_tract"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="trac"
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_tract"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="끌다"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_vis"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#D277DDEB"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="vis">
+
+                    <TextView
+                        android:id="@+id/textHead_vis"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="VIS"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_vis"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="vid, view, wit"
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_vis"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="보다"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_act"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#D277DDEB"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="act">
+
+                    <TextView
+                        android:id="@+id/textHead_act"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="ACT"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_act"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text=""
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_act"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="행동하다"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/layout_alter"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="50dp"
+                    android:background="#D277DDEB"
+                    android:gravity="center"
+                    android:onClick="goNext"
+                    android:orientation="vertical"
+                    android:tag="alter">
+
+                    <TextView
+                        android:id="@+id/textHead_alter"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:fontFamily="@font/nanum_square_round_r"
+                        android:gravity="center"
+                        android:text="ALTER"
+                        android:textColor="#000000"
+                        android:textSize="36sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textChange_alter"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="other"
+                        android:textColor="#009688"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/textHead_mean_alter"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="8dp"
+                        android:gravity="center"
+                        android:text="다른"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>

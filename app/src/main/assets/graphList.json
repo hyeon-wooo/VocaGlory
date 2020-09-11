@@ -1,0 +1,33 @@
+{
+  "graph" : [
+    {
+      "voca": "autograph",
+      "pronounce": "[ B:tPg!f ]",
+      "mean": "서명, 사인하다"
+    },{
+      "voca": "photograph","pronounce": "[ fButPg!f ]",
+      "mean": "사진"
+    },{
+      "voca": "biography","pronounce": "[ baiP:grPfi ]",
+      "mean": "일대기, 자서전"
+    },{
+      "voca": "calligraphy","pronounce": "[ kPlIgrPfi ]",
+      "mean": "서예, 달필"
+    },{
+      "voca": "geography","pronounce": "[ dSiP:grPfi ]",
+      "mean": "지리학"
+    },{
+      "voca": "diagram","pronounce": "[ d7iPgr!m ]",
+      "mean": "도표, 도형"
+    },{
+      "voca": "program","pronounce": "[ poBugram ]",
+      "mean": "프로그램, 계획, 과정"
+    },{
+      "voca": "telegram","pronounce": "[ t&lPgr!m ]",
+      "mean": "전보, 전신"
+    },{
+      "voca": "grammar","pronounce": "[ gr\"mPr ]",
+      "mean": "문법"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "tract": [
+    {
+      "voca" : "abstract","pronounce": "[ !bstr\"kt ]",
+      "mean" : "추상적인, 추출하다"
+    },{
+      "voca" : "attract","pronounce": "[ Ptr\"kt ]",
+      "mean" : "매혹하다, 끌어들이다"
+    },{
+      "voca" : "contract","pronounce": "[ k7:ntr!kt ]",
+      "mean" : "계약, 수축하다"
+    },{
+      "voca" : "distract","pronounce": "[ distr\"kt ]",
+      "mean" : "산만하게 하다, 주의를 돌리다"
+    },{
+      "voca" : "extract","pronounce": "[ ikstr\"kt ]",
+      "mean" : "추출하다, 발췌"
+    },{
+      "voca" : "track","pronounce": "[ tr!k ]",
+      "mean" : "길, 자국, 추적하다"
+    },{
+      "voca" : "trace","pronounce": "[ treis ]",
+      "mean" : "자취, 추적하다"
+    }
+  ]
+}

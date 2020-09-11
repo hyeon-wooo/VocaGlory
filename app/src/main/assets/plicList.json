@@ -1,0 +1,53 @@
+{
+  "plic" : [
+    {
+      "voca" : "complicate","pronounce": "[ k7:mplPk'it ]",
+      "mean" : "복잡하게 만들다"
+    },{
+      "voca" : "duplicate","pronounce": "[ d3:plPk'it ]",
+      "mean" : "복사하다, 이중의"
+    },{
+      "voca" : "replicate","pronounce": "[ r&plPk'it ]",
+      "mean" : "되풀이하다, 복제하다"
+    },{
+      "voca" : "complicity","pronounce": "[ kPmplIsPti ]",
+      "mean" : "버행 공모, 가담"
+    },{
+      "voca" : "explicit","pronounce": "[ iksplIsit ]",
+      "mean" : "분명한, 명쾌한"
+    },{
+      "voca" : "reply","pronounce": "[ ripl$i ]",
+      "mean" : "대답하다, 답장"
+    },{
+      "voca" : "apply","pronounce": "[ Ppl$i ]",
+      "mean" : "지원하다, 적용하다"
+    },{
+      "voca" : "imply","pronounce": "[ impl$i ]",
+      "mean" : "내포하다, 암시하다"
+    },{
+      "voca" : "deploy","pronounce": "[ diplBi ]",
+      "mean" : "전개하다, 배치하다"
+    },{
+      "voca" : "employ","pronounce": "[ implBi ]",
+      "mean" : "고용하다"
+    },{
+      "voca" : "diploma","pronounce": "[ diplBumP ]",
+      "mean" : "수료증, 공문서"
+    },{
+      "voca" : "exploit","pronounce": "[ iksplBit ]",
+      "mean" : "이용하다, 착취하다, 공적"
+    },{
+      "voca" : "perplex","pronounce": "[ pPrpl&ks ]",
+      "mean" : "당혹하게 하다"
+    },{
+      "voca" : "complex","pronounce": "[ kPmpl&ks ]",
+      "mean" : "복잡한, 건물 단지"
+    },{
+      "voca" : "simple","pronounce": "[ iImpl ]",
+      "mean" : "간단한, 단순한"
+    },{
+      "voca" : "multiple","pronounce": "[ mEltPtl ]",
+      "mean" : "다양한, 복합적인"
+    }
+  ]
+}

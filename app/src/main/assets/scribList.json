@@ -1,0 +1,29 @@
+{
+  "scrib" : [
+    {
+      "voca" : "describe","pronounce": "[ diskr$ib ]",
+      "mean" : "묘사하다, 서술하다"
+    },{
+      "voca" : "inscribe","pronounce": "[ inskr$ib ]",
+      "mean" : "새기다, 등록하다"
+    },{
+      "voca" : "prescribe","pronounce": "[ priskr$ib ]",
+      "mean" : "처방하다, 규정하다"
+    },{
+      "voca" : "subscribe","pronounce": "[ sPbskr$ib ]",
+      "mean" : "구독하다, 가입하다"
+    },{
+      "voca" : "script","pronounce": "[ skript ]",
+      "mean" : "대본, 글씨"
+    },{
+      "voca" : "manuscript","pronounce": "[ m\"njuskrJpt ]",
+      "mean" : "원고, 손으로 쓴"
+    },{
+      "voca" : "transcript","pronounce": "[ tr\"nskrJpt ]",
+      "mean" : "필기록, 사본"
+    },{
+      "voca" : "conscription","pronounce": "[ kPnskrIpHPn ]",
+      "mean" : "징병"
+    }
+  ]
+}

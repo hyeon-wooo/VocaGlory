@@ -1,0 +1,62 @@
+{
+  "spec": [
+    {
+      "voca" : "special","pronounce": "[ sp&HPl ]",
+      "mean" : "특별한"
+    },{
+      "voca" : "specific","pronounce": "[ spPsIfik ]",
+      "mean" : "구체적인, 명확한"
+    },{
+      "voca" : "specious","pronounce": "[ spI:HPs ]",
+      "mean" : "그럴듯한"
+    },{
+      "voca" : "species","pronounce": "[ spI:Hi:z ]",
+      "mean" : "종류"
+    },{
+      "voca" : "specimen","pronounce": "[ sp&sPmPn ]",
+      "mean" : "표본"
+    },{
+      "voca" : "speculate","pronounce": "[ sp&kjul'it ]",
+      "mean" : "짐작하다"
+    },{
+      "voca" : "conspicuous","pronounce": "[ kPnspIkjuPs ]",
+      "mean" : "눈에 잘 띄는, 뚜렷한, 화려한"
+    },{
+      "voca" : "aspect","pronounce": "[ \"spekt ]",
+      "mean" : "양상, 방향, 측면"
+    },{
+      "voca" : "expect","pronounce": "[ iksp&kt ]",
+      "mean" : "기대하다, 예상하다"
+    },{
+      "voca" : "inspect","pronounce": "[ insp&kt ]",
+      "mean" : "조사하다, 점검하다"
+    },{
+      "voca" : "prospect","pronounce": "[ pr7:spekt ]",
+      "mean" : "전망, 가능성"
+    },{
+      "voca" : "suspect","pronounce": "[ sPsp&kt ]",
+      "mean" : "의심하다, 용의자"
+    },{
+      "voca" : "respect","pronounce": "[ risp&kt ]",
+      "mean" : "존중, 존경하다"
+    },{
+      "voca" : "retrospect","pronounce": "[ r&trPsp'kt ]",
+      "mean" : "회상, 추억하다"
+    },{
+      "voca" : "introspection","pronounce": "[ JntrPsp&kHPn ]",
+      "mean" : "자기 성찰, 반성"
+    },{
+      "voca" : "perspective","pronounce": "[ pPrsp&ktiv ]",
+      "mean" : "관점, 시각, 원근법"
+    },{
+      "voca" : "spectacle","pronounce": "[ sp&ktPkl ]",
+      "mean" : "장관, 구경거리"
+    },{
+      "voca" : "specter","pronounce": "[ sp&ktPr ]",
+      "mean" : "유령"
+    },{
+      "voca" : "spectrum","pronounce": "[ sp&ktrPm ]",
+      "mean" : "영역, 범위"
+    }
+  ]
+}

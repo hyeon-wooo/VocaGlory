@@ -1,0 +1,53 @@
+{
+  "mit" : [
+    {
+      "voca" : "admit","pronounce": "[ !dmIt ]",
+      "mean" : "인정하다, 승인하다"
+    },{
+      "voca" : "commit","pronounce": "[ kPmIt ]",
+      "mean" : "저지르다, 약속하다, 헌신하다"
+    },{
+      "voca" : "emit","pronounce": "[ imIt ]",
+      "mean" : "내뿜다, 방출하다"
+    },{
+      "voca" : "omit","pronounce": "[ oumIt ]",
+      "mean" : "누락하다, 빠뜨리다"
+    },{
+      "voca" : "permit","pronounce": "[ pPrmIt ]",
+      "mean" : "용납하다, 허가증"
+    },{
+      "voca" : "remit","pronounce": "[ rimIt ]",
+      "mean" : "보내다, 송금하다, 면제하다"
+    },{
+      "voca" : "submit","pronounce": "[ sPbmIt ]",
+      "mean" : "제출하다, 복종하다"
+    },{
+      "voca" : "transmit","pronounce": "[ tr!nsmIt ]",
+      "mean" : "전송하다, 전달하다"
+    },{
+      "voca" : "mission","pronounce": "[ mIHPn ]",
+      "mean" : "임무"
+    },{
+      "voca" : "intermission","pronounce": "[ JntPrmIHPn ]",
+      "mean" : "휴식 시간"
+    },{
+      "voca" : "missile","pronounce": "[ mIsPl ]",
+      "mean" : "미사일"
+    },{
+      "voca" : "dismiss","pronounce": "[ dismIs ]",
+      "mean" : "일축하다, 무시하다, 해고하다"
+    },{
+      "voca" : "premise","pronounce": "[ pr&mis ]",
+      "mean" : "전제, 근거"
+    },{
+      "voca" : "promise","pronounce": "[ pr7:mis ]",
+      "mean" : "약속, 기대하다"
+    },{
+      "voca" : "compromise","pronounce": "[ k7:mprPm8iz ]",
+      "mean" : "타협하다, 절충 (함께 + 약속하다)"
+    },{
+      "voca" : "mess","pronounce": "[ mes ]",
+      "mean" : "난장판, 엉망으로 만들다"
+    }
+  ]
+}

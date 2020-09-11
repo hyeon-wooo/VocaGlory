@@ -1,0 +1,53 @@
+{
+  "pos": [
+    {
+      "voca" : "position","pronounce": "[ pPzIHPn ]",
+      "mean" : "위치, 배치하다"
+    },{
+      "voca" : "positive","pronounce": "[ p7:sPtiv ]",
+      "mean" : "긍정적인, 확신하는"
+    },{
+      "voca" : "posture","pronounce": "[ p7:stHPr ]",
+      "mean" : "태도, 자세를 취하다"
+    },{
+      "voca" : "compose","pronounce": "[ kPmpBuz ]",
+      "mean" : "구성하다, 작곡하다, 작성하다"
+    },{
+      "voca" : "component","pronounce": "[ kPmpBunPnt ]",
+      "mean" : "구성 요소, 부품"
+    },{
+      "voca" : "compound","pronounce": "[ k7:mpaund ]",
+      "mean" : "합성물, 혼합하다"
+    },{
+      "voca" : "dispose","pronounce": "[ dispBus ]",
+      "mean" : "없애다, 처리하다"
+    },{
+      "voca" : "deposit","pronounce": "[ dip7:zit ]",
+      "mean" : "보증금, 침전물, 예치하다"
+    },{
+      "voca" : "expose","pronounce": "[ ikspBuz ]",
+      "mean" : "드러내다, 폭발하다"
+    },{
+      "voca" : "impose","pronounce": "[ impBuz ]",
+      "mean" : "부과하다, 강요하다"
+    },{
+      "voca" : "interpose","pronounce": "[ JntPrpBuz ]",
+      "mean" : "덧붙이다, 끼어들다, 사이에 두다"
+    },{
+      "voca" : "oppose","pronounce": "[ PpBuz ]",
+      "mean" : "반대하다, 겨루다"
+    },{
+      "voca" : "propose","pronounce": "[ prPpBuz ]",
+      "mean" : "제안하다"
+    },{
+      "voca" : "propound","pronounce": "[ prPp$und ]",
+      "mean" : "제기하다"
+    },{
+      "voca" : "purpose","pronounce": "[ pQ:rpPs ]",
+      "mean" : "목적, 용도"
+    },{
+      "voca" : "suppose","pronounce": "[ sPpBuz ]",
+      "mean" : "가정하다, 추측하다"
+    }
+  ]
+}
